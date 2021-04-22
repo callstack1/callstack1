@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @callstack1
-- 👀 I’m interested in JavaScript, Python
+- 👋 Hi, I’m Leonardo
+- 👀 I’m interested in JavaScript, Python, React, Express, Node.js
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
