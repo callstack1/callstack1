@@ -21,8 +21,11 @@
 <a href="https://linkedin.com/in/leodsc" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+### O que fiz na última semana...
 <!--START_SECTION:waka-->
-```text
+```
+
 JavaScript   9 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.35 % 
 Python       8 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   36.83 % 
 Java         3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 % 
