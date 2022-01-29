@@ -1,5 +1,6 @@
 ## Seja bem vindo, sou o Leonardo!
 
+[![wakatime](https://wakatime.com/badge/user/ab42c014-6648-488b-8ae0-678e3b16c352.svg)](https://wakatime.com/@ab42c014-6648-488b-8ae0-678e3b16c352)
 <div class="cards-ctn">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=leodsc&count_private=true&show_icons=true&theme=gruvbox" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodsc&theme=gruvbox&layout=compact" />
