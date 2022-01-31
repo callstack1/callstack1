@@ -29,10 +29,10 @@
 ### O que fiz na última semana...
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.35 % 
-Python       8 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   36.83 % 
-Java         3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-CSS          1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Python       8 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   36.85 % 
+JavaScript   7 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Java         5 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 % 
+CSS          1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 INI          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
