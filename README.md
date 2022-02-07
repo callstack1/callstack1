@@ -29,11 +29,11 @@
 ### O que fiz na última semana...
 <!--START_SECTION:waka-->
 ```text
-Java         18 hrs 9 mins   ███████████████░░░░░░░░░░   60.10 % 
-JavaScript   9 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.38 % 
-CSS          1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Python       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Java         19 hrs 52 mins  █████████████████░░░░░░░░   67.50 % 
+JavaScript   8 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   28.85 % 
+Python       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+CSS          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 <!--END_SECTION:waka-->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=leodsc.leodsc) -->
