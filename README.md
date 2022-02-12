@@ -29,9 +29,10 @@
 ### O que fiz na última semana...
 <!--START_SECTION:waka-->
 ```text
-Java             9 hrs 40 mins   ████████████████████████░   96.23 % 
-Other            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Java         3 hrs 34 mins   ███████████████░░░░░░░░░░   59.76 % 
+JavaScript   2 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   36.47 % 
+Markdown     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=leodsc.leodsc) -->
