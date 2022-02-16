@@ -29,6 +29,8 @@
 ### O que fiz na última semana...
 <!--START_SECTION:waka-->
 ```text
+Total: 9 hrs 55 mins
+
 JavaScript   6 hrs 9 mins    ███████████████▓░░░░░░░░░   62.06 % 
 Java         1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.70 % 
 Markdown     1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 % 
