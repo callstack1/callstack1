@@ -31,12 +31,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                                   26 hrs 16 mins  █████████████████████░░░░   83.73 %
-XML                                    2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Properties                             55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-JavaScript                             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-HTML                                   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-spring-application-config-properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Java                                   21 hrs 20 mins  ████████████████████▒░░░░   81.93 %
+XML                                    2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Properties                             55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+JavaScript                             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+HTML                                   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+spring-application-config-properties   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
