@@ -31,10 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                                   4 hrs 3 mins    ██████████████████████░░░   87.53 %
-spring-application-config-properties   17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Properties                             14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-XML                                    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
