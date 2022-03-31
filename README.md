@@ -26,13 +26,3 @@
 <a href="https://stackoverflow.com/users/14062086/leodsc">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-
-### O que fiz na última semana...
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=leodsc.leodsc) -->
