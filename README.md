@@ -1,6 +1,8 @@
 ## Seja bem vindo, sou o Leonardo!
 
-Sou um desenvolvedor de software apaixonado pelo que faço. Comecei a programar em 2019, tendo o Python como minha primeira linguagem e após esse primeiro contato, nunca mais parei. Hoje meu maior foco é usar o Java e JavaScript nos meus projetos. Tenho especial interesse pelos frameworks Spring Boot e Angular, assim como tópicos de ciências da computação, como estruturas de dados, algoritmos e redes de computadores.
+Sou um desenvolvedor de software apaixonado pelo que faço. Comecei a programar em 2019, tendo o Python como minha primeira linguagem e após esse primeiro contato, nunca mais parei. Hoje meu maior foco é usar o Java e JavaScript nos meus projetos. 
+
+Tenho especial interesse pelos frameworks Spring Boot e Angular, assim como tópicos de ciências da computação, como estruturas de dados, algoritmos e redes de computadores.
 
 ### Tecnologias
 
